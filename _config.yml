@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Stylianos Loukas Vasileiou"
   avatar           : "profile.png"
-  bio              : "PhD Candidate"
+  bio              : "PhD Candidate, Computer Science & Engineering, Washington University in St. Louis"
   location         : "St. Louis, MO, USA"
-  employer         : "Washington University in St. Louis"
+  employer         : 
   pubmed           : 
   googlescholar    : 
   email            : "v.stylianos@wustl.edu"
@@ -209,15 +209,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  #- scope:
-   #   path: ""
-    #  type: teaching
-    #values:
-     # layout: single
-      #author_profile: true
-      #share: true
-      #comments: true
+
   # _publications
   - scope:
       path: ""
