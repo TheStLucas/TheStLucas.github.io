@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "TheStLucas' Realm"
 title_separator          : "-"
-name                     : &name "Stylianos Loukas Vasileiou"
-description              : &description "PhD Candidate"
+name                     : &name "TheStLucas"
+description              : &description "Personal Website"
 url                      : https://thestlucas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "TheStLucas/thestlucas.github.io"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : https://twitter.com/TheStLucas
   vine             :
   weibo            :
   xing             :
