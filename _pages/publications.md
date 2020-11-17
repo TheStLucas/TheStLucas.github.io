@@ -5,10 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
 
 <!--{% for post in site.publications reversed %}
@@ -21,7 +17,6 @@ author_profile: true
 </p><h2>2020</h2>
  
 <ol>
-
 <li>
   <a href=#>   
     On the Relationship Between KR Approaches for Explainable Planning
@@ -59,6 +54,7 @@ author_profile: true
 </li>
   
 </ol>
+
 
 <p>
 </p><h2>2019</h2>
