@@ -16,11 +16,44 @@ author_profile: true
 {% endfor %}-->
 
 <header class="post-header">
-    <h1 class="post-title">publications</h1>
+    <h1 class="post-title">Publications</h1>
     <h5 class="post-description"></h5>
   </header>
   
-<div class="publications">
+ <h3 class="year">2020</h3>
+<ol class="bibliography"><li>
+
+<div id="xaip20">
+  
+   <span class="title">On the Relationship Between KR Approaches for Explainable Planning</span>
+    <span class="author">
+    <em>Stylianos Loukas Vasileiou</em>,
+    William Yeoh,
+    Tran Cao Son
+    
+   </span>
+
+    
+      
+<span class="periodical">
+ <i>
+  ICAPS XAIP Workshop (XAIP 2020),
+          
+    2020
+          
+  </i>
+</span>
+ <span class="links">
+ 
+ <!--[<a href="https://alexeyignatiev.github.io/assets/pdf/msgcin-nips20-preprint.pdf" target="_blank">PDF</a>]-->
+   
+  </span>
+</div>
+</li>
+<li>
+
+
+<!-- <div class="publications">
 	
 	<h2 >Conferences (incl. workshops and posters)</h2>
 	
@@ -36,5 +69,4 @@ author_profile: true
 		
 		<li><b>Stylianos L. Vasileiou</b>, William Yeoh, Tran Cao Son, <em>"A Preliminary Logic-based Approach for Explanation Generation"</em>, ICAPS XAIP Workshop, pp. 132-140, 2019 <a href="https://kcl-planning.github.io/XAIP-Workshops/xaip-2019-proceedings.pdf" class="button">PDF</a></li>
 	
-	</ol>
-</div>
+	</ol> </div> -->
