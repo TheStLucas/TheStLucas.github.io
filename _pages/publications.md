@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
@@ -17,7 +17,7 @@ author_profile: true
 
 <div class="publications">
 	
-	<h2 >Conferences, Workshops, Miscellaneous:</h2>
+	<h2 >Conferences (incl. workshops and posters)</h2>
 	
 
 	<ol type="i">
@@ -25,7 +25,7 @@ author_profile: true
 		
 		<li>Tran Cao Son, Van Nguyen, <b>Stylianos L. Vasileiou</b>, William Yeoh, <em>"Conditional Updates of Logic Programs and its Applications" (<i>Poster Presentation</i>)</em>, KR, 2020 </li>
 		
-		<li>Van Nguyen, <b>Stylianos L. Vasileiou</b>, Tran Cao Son, William Yeoh, <em>"Explainable Planning Using Answer Set Programming"</em>, KR, pp. 662-666, 2020 </li>
+		<li>Van Nguyen, <b>Stylianos L. Vasileiou</b>, Tran Cao Son, William Yeoh, <em>"Explainable Planning Using Answer Set Programming"</em>, KR, pp. 662-666, 2020 </li> 
   		
 		<li>Van Nguyen, <b>Stylianos L. Vasileiou</b>, Tran Cao Son, William Yeoh, <em>"Conditional Updates of Answer Set Programming and Its Application in Explainable Planning" (<i>Extended Abstract</i>)</em>, AAMAS, pp. 1954-1956, 2020 <a href="http://www.ifaamas.org/Proceedings/aamas2020/pdfs/p1954.pdf" class="button">PDF</a></li>
 		
