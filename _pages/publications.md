@@ -22,33 +22,23 @@ author_profile: true
   
   <article class="post-content publications clearfix">
   
- <h3 class="year">2020</h3>
-<ol class="bibliography"><li>
+ <h2 class="year">2020</h2>
+
 
 
 <div id="xaip20">
   
    <span class="title">On the Relationship Between KR Approaches for Explainable Planning</span>
+   
     <span class="author">
+	
     <em>Stylianos Loukas Vasileiou</em>,
     William Yeoh,
     Tran Cao Son
     
    </span>
 
-   
-<span class="periodical">
- <i>
-  ICAPS XAIP Workshop (XAIP 2020), 2020
-          
-  </i>
-</span>
-
- <!-- <span class="links"> [<a href="https://alexeyignatiev.github.io/assets/pdf/msgcin-nips20-preprint.pdf" target="_blank">PDF</a>] </span> -->
   
-</div>
-</li>
-<li>
 
 
 <!-- <div class="publications">
