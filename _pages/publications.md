@@ -15,6 +15,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}-->
 
+<header class="post-header">
+    <h1 class="post-title">publications</h1>
+    <h5 class="post-description"></h5>
+  </header>
+  
 <div class="publications">
 	
 	<h2 >Conferences (incl. workshops and posters)</h2>
