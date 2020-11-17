@@ -20,8 +20,11 @@ author_profile: true
     <h5 class="post-description"></h5>
   </header>
   
+  <article class="post-content publications clearfix">
+  
  <h3 class="year">2020</h3>
 <ol class="bibliography"><li>
+
 
 <div id="xaip20">
   
@@ -33,21 +36,16 @@ author_profile: true
     
    </span>
 
-    
-      
+   
 <span class="periodical">
  <i>
-  ICAPS XAIP Workshop (XAIP 2020),
-          
-    2020
+  ICAPS XAIP Workshop (XAIP 2020), 2020
           
   </i>
 </span>
- <span class="links">
- 
- <!--[<a href="https://alexeyignatiev.github.io/assets/pdf/msgcin-nips20-preprint.pdf" target="_blank">PDF</a>]-->
-   
-  </span>
+
+ <!-- <span class="links"> [<a href="https://alexeyignatiev.github.io/assets/pdf/msgcin-nips20-preprint.pdf" target="_blank">PDF</a>] </span> -->
+  
 </div>
 </li>
 <li>
