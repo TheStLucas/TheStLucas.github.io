@@ -21,7 +21,7 @@ author_profile: true
 	
 
 	<ol type="i">
-		<li><b>Stylianos L. Vasileiou</b>, William Yeoh, Tran Cao Son, <em>"On the Relationship Between KR Approaches for Explainable Planning"</em>, ICAPS XAIP Workshop, 2020 </li>
+		<b>Stylianos L. Vasileiou</b>, William Yeoh, Tran Cao Son, <em>"On the Relationship Between KR Approaches for Explainable Planning"</em>, ICAPS XAIP Workshop, 2020 
 		
 		<li>Tran Cao Son, Van Nguyen, <b>Stylianos L. Vasileiou</b>, William Yeoh, <em>"Conditional Updates of Logic Programs and its Applications" (<i>Poster Presentation</i>)</em>, KR, 2020 </li>
 		
