@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](http://thestlucas.github.io/files/cv.pdf)
+[Please find my latest CV here [PDF]](http://thestlucas.github.io/files/cv.pdf)
