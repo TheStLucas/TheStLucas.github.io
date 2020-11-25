@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Please find my latest CV here [PDF]](https://www.youtube.com/watch?v=oHg5SJYRHA0)
+[Please find my latest CV here [PDF]](http://thestlucas.github.io/files/cv.pdf)
 
 
