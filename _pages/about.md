@@ -19,4 +19,4 @@ Currently, my research revolves around eXplainable AI for logic-based problems. 
 <!-- ![title](images/asimov1.jpg) -->
 
 <img src="images/asimov1.jpg" alt="robot"
-	title="I, robot" width="400" height="300"/>
+	title="I, Robot, by Isaac Asimov. Illustration by Alexander Wells." width="400" height="300"/>
