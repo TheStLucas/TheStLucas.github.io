@@ -19,4 +19,4 @@ Currently, my research revolves around eXplainable AI for logic-based problems. 
 <!-- ![title](images/asimov1.jpg) -->
 
 <img src="images/asimov1.jpg" alt="robot"
-	title="I, robot" width="500" height="400" />
+	title="I, robot" width="500" height="300" />
