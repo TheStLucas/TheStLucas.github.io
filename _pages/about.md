@@ -14,5 +14,7 @@ Currently, my research revolves around eXplainable AI for logic-based problems. 
 
 
 
-> You just can't differentiate between a robot and the very best of humans. [Isaac Asimov]
+> You just can't differentiate between a robot and the very best of humans. 
+> [Isaac Asimov]
 
+![title](images/asimov1.jpg)
