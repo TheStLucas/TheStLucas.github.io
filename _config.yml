@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "TheStLucas' Realm"
+title                    : "Stelios' Realm"
 title_separator          : "-"
 name                     : &name "TheStLucas"
 description              : &description "Personal Website"
