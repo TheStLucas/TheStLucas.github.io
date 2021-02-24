@@ -11,9 +11,9 @@ title                    : "Stylianos' Realm"
 title_separator          : "-"
 name                     : &name "TheStLucas"
 description              : &description "Personal Website"
-url                      : https://thestlucas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://vstylianos.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "TheStLucas/thestlucas.github.io"
+repository               : "vstylianos/vstylianos.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
