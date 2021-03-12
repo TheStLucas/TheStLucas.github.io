@@ -5,13 +5,11 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-# theme                  : "minimal-mistakes-jekyll"
-remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Stylianos' Realm"
+title                    : "Ad Infinitum"
 title_separator          : "-"
 name                     : &name "TheStLucas"
 description              : &description "Personal Website"
@@ -33,7 +31,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          :  "dark" #(default), "dark"
+    colorscheme          :  #"dark" #(default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -239,9 +237,8 @@ timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_tim
 # Plugins
 plugins:
   - jekyll-paginate
-  #- jekyll-sitemap
   - jekyll-gist
-  -jekyll-include-cache
+  #-jekyll-include-cache
   #- jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
@@ -251,6 +248,7 @@ whitelist:
   - jekyll-gist
   #- jekyll-feed
   - jemoji
+
 
 
 # Archives
