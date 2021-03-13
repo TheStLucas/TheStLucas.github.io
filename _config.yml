@@ -10,6 +10,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Ad Infinitum"
+logo                     : "sigma.png"
 title_separator          : "-"
 name                     : &name "TheStLucas"
 description              : &description "Personal Website"
